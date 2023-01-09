@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "NYC on Film",
+    "price": "1.00",
+    "description": "Includes 8 film photos around Midtown Manhattan, West Village, Downtown, and more.",
+    "image_url": "https://i.pinimg.com/originals/6c/e2/e0/6ce2e05b24026533b977452bc03e3a88.jpg",
+    "filename": "NYC-on-film.zip",
+    "hash": "QmbdB1ZFVMCnxK2FH3tp1rMd3Y96VoL8gzHJyLRfirRyEW"
+  },
+  {
+    "id": 2,
+    "name": "LA on Film",
+    "price": "1.00",
+    "image_url": "https://i.pinimg.com/originals/42/c2/b0/42c2b0e7317d50f4290a2fb2d4874ec3.jpg",
+    "description": "Includes 8 film photos around Beverly Hills, Hollywood Hills, Sunset Boulevard, and more.",
+    "filename": "LA on Film.zip",
+    "hash": "QmVtGoA7m3DF5yKfSQcGLC9FSuD5Hff86QKxDAKp4osgFk"
+  }
+]
